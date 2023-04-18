@@ -58,6 +58,7 @@ while True:
             print("Tipo de membresía actualizado correctamente")
             
         else:
+
             print("Miembro no encontrado")
 
     # Opción 4: Buscar información de un miembro
