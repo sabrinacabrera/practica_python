@@ -44,7 +44,7 @@ while True:
     print("5. Calcular el promedio de edad de los miembros")
     print("6. Buscar el miembro más joven y el más viejo")
     print("0. Salir del programa")
-    opcion = input("\nIngrese la opción deseada: ")
+    opcion = input("Ingrese la opción deseada: ")
 
     # Opción 1: Agregar un nuevo miembro
     if opcion == "1":
